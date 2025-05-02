@@ -1,12 +1,29 @@
-# React + Vite
+AGE CALCULATOR
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive React application that calculates your age in years, months, and days based on your date of birth.
 
-Currently, two official plugins are available:
+FEATURES
+Input for day, month, and year
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Calculates exact age (years, months, days)
 
-## Expanding the ESLint configuration
+Clean and mobile-friendly UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Tech Stack
+React (Vite)
+CSS for styling
+
+Installation
+
+
+# Clone the repository
+git clone https://github.com/AadilNuhu/Age-Calculator.git
+
+# Navigate to the project directory
+cd age-calculator-app
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
